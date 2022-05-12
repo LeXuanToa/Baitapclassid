@@ -1,0 +1,43 @@
+.first-heading {
+    margin: auto;
+    text-align: center;
+    top: 0;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(206, 12, 12);
+   padding: 20px;
+}
+.first-heading .second-heading {
+  
+}
+.first-heading .second-heading ul{
+    display: flex;
+    list-style: none;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.first-heading .second-heading li a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    text-align: center;
+ 
+}
+.first-heading .text1 {
+    margin-bottom: 20px;
+
+}
+.first-heading .text1 p {
+    color: white;
+    font-size: 13px;
+    
+}
+.first-heading .text2 {
+    margin-bottom: 20px;
+}
+.first-heading .text2 h1{
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+}
